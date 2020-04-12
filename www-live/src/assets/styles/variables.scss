@@ -1,0 +1,41 @@
+@import './_reset.scss';
+@import './_mixins.scss';
+
+/*------------------------------------*\
+// * Colors
+\*------------------------------------*/
+
+$white: #ffffff;
+$primary: #0507c4;
+
+/*------------------------------------*\
+// * Typography
+\*------------------------------------*/
+
+// * Type Styles
+$font-family: -apple-system, 'Helvetica Neue', sans-serif;
+$base-font-size: 16px;
+$color: $white;
+$fw-light: 200;
+$fw-normal: 400;
+$fw-semi: 500;
+$fw-bold: 700;
+$fw-black: 900;
+
+// * Paragraph
+$p-color: $white;
+$p-fz: rem(16px);
+$p-lh: rem(17px);
+$p-margin: rem(12px);
+
+// * Header
+$h-color: $white;
+$h-fz: rem(36px);
+$h-lh: rem(42px);
+$h-margin: rem(20px);
+$h-letter-spacing: 0.2em;
+
+/*------------------------------------*\
+// * Spacing
+\*------------------------------------*/
+
